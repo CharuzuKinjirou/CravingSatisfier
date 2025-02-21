@@ -1,0 +1,106 @@
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Craving Satisfier.exe.config
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Craving Satisfier.exe
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Craving Satisfier.pdb
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.LoadingForm.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Properties.Resources.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.exe
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.pdb
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.Licensing.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.Utils.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Login.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.exe.licenses
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.csproj.CopyComplete
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.MainDashboard.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Add_Items.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Purchase.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Rice.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.ValueMeal.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.ComboMeals.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Cake.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.IceCream.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.FilipinoStyle.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.AlcoholDrinks.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.SoftDrinks.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.HomeMadeDrinks.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.UpdateItem.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.RemoveItem.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Dimsum.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Pork_BBQ.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Wings.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.HeavyLoaded.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Cheesy_Loaded.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Cold_Coffee.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.Hot_Coffee.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.HomePage.resources
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving Satisfier.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PAGPAG\Craving Satisfier\Craving Satisfier\Craving Satisfier\obj\Debug\Craving_Satisfier.TableScheduler.resources
